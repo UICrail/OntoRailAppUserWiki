@@ -5,6 +5,6 @@ OntoRail (https://ontorail.org) is a project initiated at UIC (https://uic.org),
 
 * Leverage ontologies as a means to consolidate and enrich Railways Systems Modelling knowledge into an Encyclopedia
 * Provide ontology-based tools to promote and facilitate convergence and federation between models of the railways domain.
-  * Browsing of ontologies and linking between ontologies
-  * Report differences between version of an ontology
-  * An Ontolex-backed glossary for the railway domain
+  * OntoRail: Browsing of ontologies and linking between ontologies
+  * OntoDiff: Report differences between version of an ontology
+  * OntoDic: An Ontolex-backed glossary for the railway domain
